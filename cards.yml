@@ -1,0 +1,11 @@
+build:
+  version: "3.0"
+
+cards:
+  message: "Welcome to SuryaBank cards related local APIs "
+  contactDetails:
+    name: "Surya Kant - Developer"
+    email: "surya@sollogics.com"
+  onCallSupport:
+    - (412) 419-3491
+    - (915) 382-1932

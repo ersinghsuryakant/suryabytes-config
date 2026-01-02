@@ -1,0 +1,11 @@
+build:
+  version: "2.0"
+
+accounts:
+  message: "Welcome to Surya Bank accounts related QA APIs"
+  contactDetails:
+    name: "Shyam Sundar Singh - QA Lead"
+    email: "shyam@sollogics.com"
+  onCallSupport:
+    - (666)265-3745
+    - (666)734-1289

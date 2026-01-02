@@ -1,0 +1,11 @@
+build:
+  version: "3.0"
+
+accounts:
+  message: "Welcome to Surya Bank accounts related Prod APIs"
+  contactDetails:
+    name: "Mahesh Kumar - Prod Lead"
+    email: "mahesh@sollogics.com"
+  onCallSupport:
+    - (888)954-3548
+    - (888)167-6472
