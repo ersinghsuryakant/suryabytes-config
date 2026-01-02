@@ -2,7 +2,7 @@ build:
   version: "3.0"
 
 accounts:
-  message: "Welcome to Surya Bank accounts related Prod APIs"
+  message: "Welcome to Surya Bank accounts related Production APIs"
   contactDetails:
     name: "Mahesh Kumar - Prod Lead"
     email: "{cipher}6f4d5000e77f953e5365c10ed553d787e660478d0de4fc5ce05dd41f36f1850cc57e44d9a0a25cc4dd35ca463cde5231"
@@ -10,3 +10,4 @@ accounts:
     - (888)954-3548
 
     - (888)167-6472
+
