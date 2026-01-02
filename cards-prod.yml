@@ -2,7 +2,7 @@ build:
   version: "3.0"
 
 cards:
-  message: "Welcome to SuryaBank cards related Production APIs "
+  message: "Welcome to SuryaBank cards related prod APIs "
   contactDetails:
     name: "Surya  - QA Lead"
     email: "surya@sollogics.com"
@@ -10,3 +10,4 @@ cards:
     - (310) 875-4367
 
     - (201) 236-1267
+
