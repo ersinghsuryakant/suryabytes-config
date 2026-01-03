@@ -2,11 +2,12 @@ build:
   version: "1.0"
 
 accounts:
-  message: "Welcome to Surya Bank accounts related local APIs"
+  message: "Welcome to Surya Bank accounts related docker APIs"
   contactDetails:
     name: "Surya Kant - Developer"
     email: "surya@sollogics.com"
   onCallSupport:
     - (555)555-12345
     - (555)523-12589
+
 
